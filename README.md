@@ -1,0 +1,2 @@
+# ricidus
+Ionic project
